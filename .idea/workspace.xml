@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e3ab7ec8-1de7-4136-ae10-379c52ff8556" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/solution-ktx/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/solution-ktx/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solution-ktx/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/solution-ktx/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solution-ktx/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/solution-ktx/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solution/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/solution/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solution/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/solution/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solution/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/solution/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/starter/app/src/main/java/com/google/codelabs/buildyourfirstmap/MarkerInfoWindowAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/starter/app/src/main/java/com/google/codelabs/buildyourfirstmap/place/PlaceRenderer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/starter/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/starter/app/src/main/res/layout/marker_info_contents.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/starter/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/starter/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/app/src/main/java/com/google/codelabs/buildyourfirstmap/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/starter/app/src/main/java/com/google/codelabs/buildyourfirstmap/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/app/src/main/java/com/google/codelabs/buildyourfirstmap/place/Place.kt" beforeDir="false" afterPath="$PROJECT_DIR$/starter/app/src/main/java/com/google/codelabs/buildyourfirstmap/place/Place.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter/app/src/main/res/raw/places.json" beforeDir="false" afterPath="$PROJECT_DIR$/starter/app/src/main/res/raw/places.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/starter/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/starter/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/starter/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/starter/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
@@ -19,18 +26,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1uJt55CSwuWzgYtPuZkpmyjlQfD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/KotlinProjects/maps-platform-101-android/starter&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -44,10 +59,15 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="505" y="252" width="670" height="676" key="search.everywhere.popup" timestamp="1624395495685">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="505" y="252" width="670" height="676" key="search.everywhere.popup/-2560.-252.2560.1415/0.25.1680.1025@0.25.1680.1025" timestamp="1624395495685" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
